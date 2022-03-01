@@ -1,4 +1,4 @@
-
+import pygame,sys
 pygame.init()  #start game
 screen  = pygame.display.set_mode((432,768)) #set size picure douple picure
 
