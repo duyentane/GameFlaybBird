@@ -1,4 +1,3 @@
-import pygame, sys,random
 
 pygame.init()  #start game
 screen  = pygame.display.set_mode((432,768)) #set size picure douple picure
@@ -22,7 +21,3 @@ while True:
      screen.blit(floor,(0,600))
      pygame.display.update() #display up monitor
      clock.tick(120)
-          
-     
-
-
